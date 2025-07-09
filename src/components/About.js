@@ -10,7 +10,7 @@ const About = () => {
       <p className="about-text">
         Fast, simple, and secure — our mission is to simplify your note-taking experience without compromising on performance.
       </p>
-      <p className="about-footer">~ Built with ❤️ by Jagriti Kanwar.</p>
+      <p className="about-footer">~ Built with ❤️ by Pranav Sharma.</p>
     </div>
   );
 };
